@@ -15,9 +15,9 @@ Bem-vindo ao meu perfil no GitHub, onde compartilho meu aprendizado em Data Scie
 
 ## Projetos Destacados 🚀
 
-- [Projeto 1](https://github.com/caio26/data-science/tree/main/webscraping/rotten_tomatoes):
-- [Projeto 2](https://github.com/caio26/data-science/tree/main/regressao/predicao_preco_imovel):
-- [Projeto 3](lhttps://github.com/caio26/dashboards/tree/main/covid):
+- [Webscraping](https://github.com/caio26/data-science/tree/main/webscraping/rotten_tomatoes):
+- [predição de imoveis na India](https://github.com/caio26/data-science/tree/main/regressao/predicao_preco_imovel):
+- [Dashboard Covid-19](https://github.com/caio26/dashboards/tree/main/covid):
 
 ## Tecnologias que Estou Estudando 🚀
 
