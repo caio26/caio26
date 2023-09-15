@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil no GitHub, onde compartilho meu aprendizado em Data Scie
 
 - Python 🐍
 - SQL 🎯
-- SaaS ☁️
+- SaS 📊
 - Power BI 📈
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! 😃
